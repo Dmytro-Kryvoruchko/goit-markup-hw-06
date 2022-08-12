@@ -915,7 +915,7 @@ button {
 }
 
 .modal-form-check:checked + .modal-form-check-desc::before {
-  background-image: url(/images/for-sprite/check-birdie.svg);
+  background-image: url(/);
   background-color: var(--accent-color);
   border-radius: 4px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -925,7 +925,6 @@ button {
   /* outline: 1px solid var(--accent-color);
   border-radius: 4px; */
 }
-
 /* .check-box-wrapper {
   display: flex;
   align-items: center;
